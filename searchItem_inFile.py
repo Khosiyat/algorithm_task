@@ -5,9 +5,9 @@ def searchFor_item(search_word, myFile):
     reaidingFile = myFile.read()
     
     if search_word in reaidingFile: 
-        print('Siz qidirgan', search_word, 'malumot matnda mavjud emas')
+        print('Mana', search_word , 'Siz qidirgan malumot')
     else: 
-        print('Mana', search_word , 'Siz qidirgan malumot') 
+        print('Siz qidirgan', search_word, 'malumot matnda mavjud emas') 
     
     myFile.close() 
 
