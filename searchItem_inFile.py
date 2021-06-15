@@ -1,4 +1,4 @@
-#table.txt fayli berilgan shu fayldan kerak ma'lumotni topuvchi dastur
+#SHART-4: table.txt fayli berilgan shu fayldan kerak ma'lumotni topuvchi dastur
 
 def searchFor_item(search_word, myFile):
     # search_word = '____ '
