@@ -1,4 +1,4 @@
-#Topshiriq:Tubsonlar topishning mukammal algoritmini yozish. N kiritadi Ngacha tubsonlarni chiqarib bersin
+#SHART-1: Tubsonlar topishning mukammal algoritmini yozish. N kiritadi Ngacha tubsonlarni chiqarib bersin
 
 myNumber = int(input('sonni kiriting!'))
 if myNumber > 1:
